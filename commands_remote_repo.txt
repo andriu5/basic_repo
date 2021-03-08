@@ -1,0 +1,19 @@
+git init
+git status
+git add pokemon
+git add pokemon/*
+git status
+git commit -m "Adding pokemon website with AJAX request to PokeAPI to get 151 iamges with the pokemons."
+git remote add origin git@github.com:andriu5/basic_repo.git
+git push origin master
+echo "# Obteniendo los 151 pokemones usando la API: https://pokeapi.co/" > README.md
+vim README.md 
+git add README.md 
+git commit -m "Adding README.md with the details about the JQuery and AJAX."
+git push
+git push origin master
+vim README.md 
+git add README.md 
+git commit -m "Fixing typo in list: -json to - json"
+git push origin master
+history > commands.txt

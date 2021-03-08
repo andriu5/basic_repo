@@ -1,0 +1,6 @@
+# ignora cualquier archivo llamado "secret.js"
+secret.js
+# ignora cualquier directorio llamado "packages"
+packages/
+# ignora un archivo llamado "report.log" ubicado en la raíz de tu directorio de trabajo
+report.log

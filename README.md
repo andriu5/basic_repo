@@ -13,3 +13,5 @@ La funcion que implementa el motodo GET de AJAX en JQuery es: `$.get(url, callba
 - json: es el tipo de dato que esta esperando va ser datos JSON.
 
 Una vez que se obtiene respuesta de la llamada AJAX get, se llama a la funcion callback(), lo cual es un actualizador dinamico de nuestra pagina web.
+
+## Note: el repo tiene un archivo .gitignore para controlar que se va compartir.
