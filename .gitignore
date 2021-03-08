@@ -4,3 +4,6 @@ secret.js
 packages/
 # ignora un archivo llamado "report.log" ubicado en la raíz de tu directorio de trabajo
 report.log
+# otros:
+commands_remote_repo.txt
+commands_gitignore.txt
