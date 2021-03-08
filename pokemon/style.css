@@ -1,0 +1,45 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;    
+}
+
+body{
+	width: 967px;
+	min-height: 600px;
+	margin: 0px auto;
+}
+
+#container {
+	width: 967px;
+	min-height: 600px;
+	outline: 1px solid green;
+}
+
+.title {
+	font-family: 'Roboto', sans-serif;
+	padding: 20px;
+	text-align: center;
+}
+
+#pokemones {
+	width: 957px;
+	height: auto;
+	padding: 5px;
+	display: inline-block;
+	text-align: center;
+}
+
+.imagePokemon {
+    border: 1px solid black;
+    width: 75px;
+    height: 75px;
+    vertical-align: top;
+	display: inline-block;
+    margin: 5px;
+}
+.imagePokemon img {
+	width: 70px;
+	height: 70px;
+	padding: 1px;
+}
